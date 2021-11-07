@@ -1,0 +1,36 @@
+img{
+	float: left;
+	width: 8%;
+	height: 7%;
+	margin-left: 40px;
+
+}
+h1{
+	margin-left: 300px;
+	font-size: 30px;
+	font-family: verdana;
+color:blue;
+background-color: lightblue;
+width: max-content;
+}
+a:hover{
+	background-color: gray;
+	padding: 11px;
+
+}
+ul{
+	background-color: green;
+	width: 200px;
+	padding: 10px;
+	margin-left: 680px;
+}
+a.active{
+	text-decoration: none;
+	font-size: 19px;
+	color: white;
+	margin-left: 20px;
+}
+.image{
+	width: max-content;
+height: 500px;
+}
